@@ -69,7 +69,7 @@ theme: new-vno
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/cheng-peng
+  repo: https://github.com/cheng-peng/cheng-peng.github.io.git
 
 image_stream:
   #jquery: //cdn.bootcss.com/jquery/2.1.0/jquery.min.js
